@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="coin">
+  <properties>
+   <property name="type" type="int" propertytype="entity_type" value="3"/>
+  </properties>
+  <point/>
+ </object>
+</template>

@@ -1,0 +1,45 @@
+[
+    {
+        "color": "#ffa0a0a4",
+        "drawFill": true,
+        "id": 1,
+        "members": [
+        ],
+        "name": "Class0",
+        "type": "class",
+        "useAs": [
+            "property",
+            "map",
+            "layer",
+            "object",
+            "tile",
+            "tileset",
+            "wangcolor",
+            "wangset",
+            "project"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "entity_type",
+        "storageType": "int",
+        "type": "enum",
+        "values": [
+            "NONE",
+            "PLAYER",
+            "BALLOON",
+            "COIN",
+            "SPRING"
+        ],
+        "valuesAsFlags": false
+    },
+    {
+        "id": 2,
+        "name": "Enum0",
+        "storageType": "string",
+        "type": "enum",
+        "values": [
+        ],
+        "valuesAsFlags": false
+    }
+]
